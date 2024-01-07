@@ -13,7 +13,7 @@ Welcome to the Django Blog Site! This is a simple blog application built with Dj
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/roranwillias/blog.git](https://github.com/roranwilliam/blog.git)
+   git clone https://github.com/roranwillias/blog.git
    ```
 
 2. Navigate to the project directory:
